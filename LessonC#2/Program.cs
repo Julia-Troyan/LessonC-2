@@ -109,19 +109,41 @@
 // *A(7,-5); B(1,-1)->7,21
 
 
-Console.WriteLine("Введите число: ");
-int x1 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите число: ");
+// int x1 = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine("Введите число: ");
+// int y1 = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine("Введите число: ");
+// int x2 = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine("Введите число: ");
+// int y2 = Convert.ToInt32(Console.ReadLine());
+
+// double s = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
+
+// Console.WriteLine(Math.Round(s,2));
+
+// Напишите программу, которая принимает на вход
+// число (N) и выводит таблицу квадратов чисел от 1 до N.
+// *5->1,4,9,16,25.
+// *2->1,4
 
 Console.WriteLine("Введите число: ");
-int y1 = Convert.ToInt32(Console.ReadLine());
+int num = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите число: ");
-int x2 = Convert.ToInt32(Console.ReadLine());
+for (int i = 1; i <= num; i++)
+{
+    double result = Math.Pow(i,2);
+    Console.WriteLine(result);
+}
 
-Console.WriteLine("Введите число: ");
-int y2 = Convert.ToInt32(Console.ReadLine());
+// эта же задача только с циклом while
 
-
-double s = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
-
-Console.WriteLine(Math.Round(s,2));
+// int i = 1;
+// while(i<=num)
+// {
+//     Console.Write(Math.Pow(i,2)+ " ");
+//     i++;
+// }
