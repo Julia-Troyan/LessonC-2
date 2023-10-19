@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\bin\Debug\net6.0\LessonC#2.exe
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\bin\Debug\net6.0\LessonC#2.deps.json
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\bin\Debug\net6.0\LessonC#2.runtimeconfig.json
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\bin\Debug\net6.0\LessonC#2.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\bin\Debug\net6.0\LessonC#2.pdb
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\LessonC#2.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\LessonC#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\LessonC#2.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\LessonC#2.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\LessonC#2.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\LessonC#2.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\refint\LessonC#2.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\LessonC#2.pdb
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\LessonC#2.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семенар 3\LessonC#2\obj\Debug\net6.0\ref\LessonC#2.dll
