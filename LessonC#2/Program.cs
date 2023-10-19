@@ -66,4 +66,38 @@
 //         }
 // }
 
-// 
+// // Задача, определить гласную букву алфавита.
+// class SwitchCase
+// {
+//     public static void Main(string[] args)
+//     {
+//         char ch;
+//         Console.WriteLine("Введите букву");
+//         ch = Convert.ToChar(Console.ReadLine());
+
+//         switch (Char.ToLowerInvariant(ch))
+//         {
+//             case 'a':
+//             case 'у':
+//             case 'о':
+//             case 'ы':
+//             case 'и':
+//             case 'э':
+//             case 'я':
+//             case 'ю':
+//             case 'е':
+//             case 'ё':
+//                 {
+//                     Console.WriteLine("Гласная");
+//                     break;
+
+//                 }
+//             default:
+
+//                 {
+//                     Console.WriteLine("Согласная");
+//                     break;
+//                 }
+//         }
+//     }
+// }
